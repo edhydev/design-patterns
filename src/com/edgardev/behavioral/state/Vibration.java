@@ -1,4 +1,4 @@
-package com.edgardev.behavioral.status;
+package com.edgardev.behavioral.state;
 
 public class Vibration implements MobileAlertState {
     @Override
